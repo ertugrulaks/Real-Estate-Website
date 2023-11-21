@@ -5,8 +5,8 @@
  
  <h2>Kullanılan Teknolojiler</h2>
 
-  -HTML
-  -CSS
+  -HTML </br>
+  -CSS  </br>
   -BOOTSTRAP
 
   <h2>Ekran Görüntüsü</h2>
