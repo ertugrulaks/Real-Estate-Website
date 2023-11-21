@@ -1,6 +1,6 @@
 <h1>Real Estate Website</h1>
 
- -Bu proje Html-Css ve Bootstrap kullanılarak yapılan bir websitesidir. </br>
+ -Bu proje Html-Css ve Bootstrap kullanılarak yapılan bir websitesidir.</br></br>
  -Responsive bir yapıya sahiptir.
  
  <h2>Kullanılan Teknolojiler</h2>
